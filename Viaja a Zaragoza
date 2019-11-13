@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    
+        <h1>Viaja a Zaragoza</h1>
+        <style>
+            h1 {
+                color: rgb(16, 170, 181);
+            }
+            .Zaragoza {
+                color: rgb(255, 15, 15);
+            }
+            
+        </style>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Zaragoza_-_Bas%C3%ADlica_del_Pilar_y_r%C3%ADo_Ebro.jpg" width="400">
+        <h3>Sitios de Zaragoza</h3>
+        <p> <strong Class="Zaragoza">Zaragoza</strong> es una ciudad tranquila con muchas cosas que visitar, como:
+        <li>El mercado central</li>
+        <li>El Pilar</li>
+        <li>La Seo</li>
+        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Zaragoza_-_Basilica_del_Pilar_02.jpg" width="200">
+        <h3>Gastronoía de Zaragoza</h3>
+        <p>Zaragoza tiene una gran variedad de platon, como:
+        <li>El ternasco de Aragón</li>
+        <li>Pollo al chiindrón</li>
+        <li>Migas aragonesas</li>
+        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Migas.PNG" width="400">
+    </body>
+</html>
